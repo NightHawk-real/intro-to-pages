@@ -1,1 +1,1 @@
-Link to repository website: https://nighthawk-real.github.io/intro-to-pages/
+https://nighthawk-real.github.io/intro-to-pages/
